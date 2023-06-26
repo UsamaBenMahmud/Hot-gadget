@@ -1,0 +1,31 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, black 0%, black 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.h3-c{
+    text-align: center;
+    color: #000000;
+    box-shadow: lightcoral;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgrey;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+}
